@@ -1,0 +1,8 @@
+h1 {
+  color: rgb(8, 0, 255);
+}
+
+.done {
+  background-color: aqua;
+  font-style: italic;
+}
